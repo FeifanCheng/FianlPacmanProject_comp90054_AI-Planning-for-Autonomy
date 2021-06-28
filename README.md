@@ -21,30 +21,7 @@ The purpose of this project is to implement a Pacman Autonomous Agent that can p
  
 Note that the Pacman tournament has different rules as it is a game of two teams, where your Pacmans become ghosts in certain areas of the grid. Please read carefully the rules of the Pacman tournament. Understanding it well and designing a controller for it is part of the expectations for this project. Additional technical information on the contest project can be found in file [CONTEST.md](CONTEST.md). 
 
-### Table of contents
-
-  * [1. Your task](#1-your-task)
-     * [Important basic rules](#important-basic-rules)
-  * [2. Deliverables and submission](#2-deliverables-and-submission)
-     * [Preliminary submission (Monday week 10)](#preliminary-submission-monday-week-10)
-     * [Wiki and Final submission (Monday week 12)](#wiki-and-final-submission-monday-week-12)
-     * [Video (Thursday week 12)](#video-thursday-week-12)
-  * [3. Pre-contest feedback tournaments](#3-pre-contest-feedback-tournaments)
-  * [4. Marking criteria](#4-marking-criteria)
-  * [5. Inter-University Competition](#5-inter-university-competition)
-  * [6. Important information](#6-important-information)
-     * [How to create the Wiki](#how-to-create-the-wiki)
-     * [Corrections](#corrections)
-     * [Late submissions &amp; extensions](#late-submissions--extensions)
-     * [About this repo](#about-this-repo)
-     * [Academic Dishonesty](#academic-dishonesty)
-  * [7. COMP90054 Code of Honour &amp; Fair Play](#7-comp90054-code-of-honour--fair-play)
-  * [8. Conclusion](#8-conclusion)
-     * [Acknowledgements](#acknowledgements)
-
-
-
-## 1. Your task
+## Your task
 
 This is a **group project** of 3 or 4 members. Now that you have a repo, the next thing to do is to register your team in the [Project Contest Team Registration Form](https://forms.gle/ViZvqoCVfVBHmfGA8) and tell the other students to join the team in GitHub Classroom. 
 
@@ -77,7 +54,7 @@ When submitting a solution, please make absolutely sure you adhere to the follow
 
 * Being a group assignment, you must **use your project Github** repository and GitHub team to collaborate among the members. The group will have write access to the same repository, and also be members of a GitHub team, where members can, and are expected to, engage in discussions and collaboration. Refer to the marking criteria below. 
 
-## 5. Inter-University Competition
+## Inter-University Competition
 
 The top teams of the final tournament will be inducted to the [RMIT-UoM Pacman Hall of Fame](https://sites.google.com/view/pacman-capture-hall-fame/) and will qualify to the yearly championship across RMIT and The University of Melbourne, which runs every year with the best teams since 2017 onward (given you grant us permission, of course). This is just "for fun" and will attract no marks, but is something that previous students have stated in their CVs!
 
