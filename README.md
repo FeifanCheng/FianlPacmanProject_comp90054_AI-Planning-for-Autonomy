@@ -1,3 +1,14 @@
+# We use four main AI-related techniques shows as follow(see in Wiki for details):
+
+** 1.Astar Algorithm
+
+** 2.Value Iteration Algorithm
+
+** 3.Q-Learning Algorithm
+
+** 4.Goal Recognition Technique
+
+
 # Pacman Capture the Flag Project Template
 
 You must read fully and carefully the assignment specification and instructions detailed in this file. You are NOT to modify this file in any way.
